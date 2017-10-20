@@ -1,3 +1,5 @@
+https://stackify.com/creating-net-core-windows-services/
+
 # .NET Standard based Windows Service support for .NET
 
 This repo contains a library for running a .NET Core application as windows service, without
